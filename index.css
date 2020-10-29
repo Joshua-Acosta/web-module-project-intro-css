@@ -1,4 +1,83 @@
-body{
-    background-color:beige;
-    font-family:
+*{
+     border:solid black 1px
 }
+.red{
+    background:rgb(253, 94, 2);
+    color:whitesmoke;
+   border-radius: 20px 20px 20px 20px;
+   display:inline-block;
+  font-size: larger;
+  text-decoration: none;
+  width: 8em;
+}
+.yellow{
+    background:skyblue;
+    color: whitesmoke;
+    border-radius: 20px 20px 20px 20px;
+    margin: 20%;
+    font-size:20;
+    border:solid skyblue;
+    text-decoration: none;
+    width: 8em;
+  
+}
+.pink{
+  background:goldenrod;
+  color:whitesmoke;
+  border-radius: 20px 20px 20px 20px;
+  vertical-align: middle;
+  font-size: large;
+    text-decoration: none;
+    width: 8em;
+}
+img{
+  border-radius: 80%;
+  width:20%;
+  vertical-align:middle;
+  height: 20%;
+  
+}
+.top{
+    text-align: center;
+    vertical-align: middle;
+    margin: top;
+    font-style: italic;
+}
+.rightside{
+  display:inline-block;
+  font-size: larger;
+    width:40%;
+  vertical-align:middle;
+  padding:5%; 
+  text-align:middle;
+}
+.main{
+    background: burlywood;
+    text-align:center ;
+    font-size: 16;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.first-section{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.campfire{
+    display: inline-block;
+    width: 100px;
+
+}
+
+.second-section{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+}
+.lastimg{
+border-radius: 0%;
+    width: 100%
+}  
+
