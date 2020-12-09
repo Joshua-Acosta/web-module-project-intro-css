@@ -1,0 +1,88 @@
+*{
+    border: solid black 1px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.orange{
+
+   background-color: tomato;
+   color: whitesmoke;
+   width: 8em;
+   display: inline-block;
+   font-size: larger;
+   text-decoration: none;
+   border-radius: 20px 20px 20px 20px;
+   text-align: center;
+}
+.blue{
+    border: solid black 1px;
+   background-color:skyblue;
+   color: whitesmoke;
+   width: 8em;
+   display: inline-block;
+   font-size: larger;
+   text-decoration: none;
+   border-radius: 20px 20px 20px 20px;
+   text-align: center;
+  margin: 33%;
+}
+.yellow{
+    border: solid black 1px;
+   background-color: gold;
+   color: whitesmoke;
+   width: 8em;
+   display: inline-block;
+   font-size: larger;
+   text-decoration: none;
+   border-radius: 20px 20px 20px 20px;
+   text-align: center;
+   vertical-align: middle;
+}
+.header{
+    font-size: larger;
+    vertical-align: middle;
+    
+}
+img{
+    border-radius: 80%;
+    width: 20%;
+    vertical-align: middle;
+    height: 20%;
+}
+.rightop{
+    display: inline-block;
+    font-size: larger;
+    width: 40%;
+    vertical-align: middle;
+    padding: 5%;
+    text-align: middle;
+}
+.top{
+    align-content: center;
+}
+
+.topmid{
+    background-color: burlywood;
+    color: whitesmoke;
+    font-size: large;
+    text-align: justify;
+    text-decoration: none;
+
+
+    
+}
+.midimg{
+    text-align: center;
+    font-size: medium;
+    
+}
+.bottomid{
+    text-align: center;
+    font-size: medium;
+}
+.last{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    }
